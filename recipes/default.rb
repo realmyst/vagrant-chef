@@ -11,4 +11,3 @@ package 'htop'
 package 'vim'
 package 'git-core'
 package "curl"
-package "git-flow"
